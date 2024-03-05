@@ -1,6 +1,6 @@
 # Table of contents
 
-* [This is document](README.md)
+* [iOS Handbook](README.md)
 
 ## Fundamental
 
